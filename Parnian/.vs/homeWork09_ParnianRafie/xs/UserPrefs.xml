@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A37D554E-644B-4B8C-B63C-A8D9391877F5}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="homeWork09_ParnianRafie/DataAccessLayer/BookRepossitory.cs">
+    <Files>
+      <File FileName="homeWork09_ParnianRafie/DataAccessLayer/BookRepossitory.cs" Line="8" Column="47" />
+      <File FileName="homeWork09_ParnianRafie/Views/Book/BookList.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/Controllers/BookController.cs" />
+      <File FileName="homeWork09_ParnianRafie/Views/Book/Edit.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/Enum/Enums.cs" />
+      <File FileName="homeWork09_ParnianRafie/Models/Book.cs" />
+      <File FileName="homeWork09_ParnianRafie/Views/Shared/_Layout.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/Views/Book/BorrowedBookList.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/DataBase/Read.cs" />
+      <File FileName="homeWork09_ParnianRafie/Models/HomeTable.cs" />
+      <File FileName="homeWork09_ParnianRafie/Views/Book/Index.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/Controllers/PersonController.cs" />
+      <File FileName="homeWork09_ParnianRafie/DataAccessLayer/PersonRepository.cs" />
+      <File FileName="homeWork09_ParnianRafie/Models/Person.cs" />
+      <File FileName="homeWork09_ParnianRafie/DataBase/DataBase.cs" />
+      <File FileName="homeWork09_ParnianRafie/DataAccessLayer/IPErsonRepository.cs" />
+      <File FileName="homeWork09_ParnianRafie/Views/Person/SignIn.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/Views/Person/SignUp.cshtml" />
+      <File FileName="homeWork09_ParnianRafie/DataBase/Write.cs" />
+      <File FileName=".vs/homeWork09_ParnianRafie/xs/UserPrefs.xml" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.homeWork09__ParnianRafie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
